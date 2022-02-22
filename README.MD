@@ -1,0 +1,1 @@
+A simple counter built with React and Redux.
